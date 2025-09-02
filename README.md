@@ -1,1 +1,16 @@
-# Netology-Homework-Pages
+# Информация обо мне
+
+1. Владислав
+2. 26 лет
+   
+<u>Умею подчеркивать текст в md</u>
+___Еще могу сделать текст жирным курсивом___
+
+## Любимый мем
+
+![Сырники](https://media.tenor.com/DhpE-vXnPtUAAAAe/%D1%81%D1%8B%D1%80%D0%BD%D0%B8%D0%BA%D0%B8.png)
+
+### Музыку люблю
+
+* breakcore
+* drum and base
